@@ -1,0 +1,1 @@
+This project is meant to be practice in which I will excersize everything I've learned thus far. In this webnpage there will be a number of links in the index.html which will send the user to a page for each recipe.
